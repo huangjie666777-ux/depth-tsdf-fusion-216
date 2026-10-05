@@ -1,0 +1,5 @@
+[project]
+name = "depth-tsdf-fusion-216"
+version = "0.1.0"
+description = "Multi-view depth surface reconstruction backend"
+requires-python = ">=3.10"
